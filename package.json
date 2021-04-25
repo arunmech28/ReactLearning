@@ -1,0 +1,14 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Arun",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
